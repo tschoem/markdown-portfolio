@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture of @tschoem](https://media-exp1.licdn.com/dms/image/C4E03AQGLvXxFETkQNA/profile-displayphoto-shrink_400_400/0/1593707560950?e=1653523200&v=beta&t=PFGsZumJAtDgpLzo7NG8Q01uWuBhW_w52gbJS4N9Ghs)
