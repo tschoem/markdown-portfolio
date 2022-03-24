@@ -1,1 +1,1 @@
-All I know is that I don't know *Github* enough but I can learn **fast**. 
+All I know is that I don't know _Github_ enough but I can learn **fast**. 
